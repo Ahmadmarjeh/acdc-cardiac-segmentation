@@ -1,0 +1,3 @@
+model,mean_accuracy,mean_macro_f1,macro_f1_sd
+Random Forest,0.37,0.3577,0.1380
+U-Net + heart measurements,0.80,0.7995,0.0913

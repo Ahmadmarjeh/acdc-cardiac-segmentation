@@ -1,0 +1,3 @@
+model,RV,Myocardium,LV,mean_dice,fold_sd
+Random Forest,0.2971,0.3431,0.5317,0.3907,0.0210
+U-Net,0.8049,0.7998,0.8746,0.8264,0.0263
